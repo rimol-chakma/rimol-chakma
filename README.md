@@ -4,7 +4,7 @@
   <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rimol Chakma's DEV Profile" height="30" width="30">
 </a>
 
-
+<!--
 **rimolch/rimolch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
   
 
