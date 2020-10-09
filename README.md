@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
   <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimolch" width = "100" height = "100">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimolch">
    </p>
 
   <p align="center">
