@@ -1,7 +1,7 @@
 ### Hi here 👋👋 i am Rimol
 
 <a href="https://dev.to/rimolch">
-  <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rimol Chakma's DEV Profile" height="50" width="50">
+  <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rimol Chakma's DEV Profile" height="100" width="100">
 </a>
 
 <!--
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
   <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimolch">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimolch" width = "100" height = "100">
    </p>
 
   <p align="center">
