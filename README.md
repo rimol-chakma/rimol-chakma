@@ -1,7 +1,7 @@
 ### Hi here 👋👋 i am Rimol
 
 <a href="https://dev.to/rimolch">
-  <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rimol Chakma's DEV Profile" height="100" width="100">
+  <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rimol Chakma's DEV Profile" height="30" width="50">
 </a>
 
 <!--
