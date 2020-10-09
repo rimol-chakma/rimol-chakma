@@ -1,11 +1,11 @@
-### Hi there < 👋👋 i am Rimol
+### Hi there 👋👋 i am Rimol
 
 <a href="https://dev.to/rimolch">
-  <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayanka Chattopadhyay's DEV Profile" height="30" width="30">
+  <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rimol Chakma's DEV Profile" height="30" width="30">
 </a>
 
-<!--
-**PeepingClown/PeepingClown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**rimolch/rimolch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
   
 
 
   <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeepingClown">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimolch">
    </p>
 
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeepingClown&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rimolch&show_icons=true&theme=dracula" />
   </p>
 
 
