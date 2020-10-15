@@ -1,4 +1,4 @@
-### HOLA ! 👋  HERE I AM RIMOL
+### HOLA!👋
 
 
 <img width = "50" src = [html_css_javascript_and_the_awesome_jquery_header](https://user-images.githubusercontent.com/67545874/96079698-341ceb00-0ed7-11eb-9825-3b577661f5f4.png)>
