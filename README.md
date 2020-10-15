@@ -1,5 +1,9 @@
 ### HOLA ! 👋  HERE I AM RIMOL
 
+
+![html_css_javascript_and_the_awesome_jquery_header](https://user-images.githubusercontent.com/67545874/96079698-341ceb00-0ed7-11eb-9825-3b577661f5f4.png)
+
+
 <a href="https://dev.to/rimolch">
   <p style = border-radius: 80%;>
   <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rimol Chakma's DEV Profile" height="30" width="50">
