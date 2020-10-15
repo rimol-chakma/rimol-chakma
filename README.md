@@ -1,4 +1,4 @@
-### HOLA 👋  HERE I AM RIMOL
+### HOLA ! 👋  HERE I AM RIMOL
 
 <a href="https://dev.to/rimolch">
   <p style = border-radius: 80%;>
