@@ -1,7 +1,9 @@
 # HOLA!👋
 
 
-![vikgj9pssaffio4xbb7j](https://user-images.githubusercontent.com/67545874/97277030-26198380-1862-11eb-8ec8-68cc35e78b9f.png)
+
+![software-developer-job-description-salary-and-skills-2061833-Final-c1443780296e40869075925f9b96fb5e](https://user-images.githubusercontent.com/67545874/105607436-e6aef480-5dc8-11eb-929d-0685e34e4cf3.png)
+
 
 
 
