@@ -8,8 +8,8 @@
 
 
 <a href="https://dev.to/rimolch">
-  <p style = border-radius: 80%;>
-  <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rimol Chakma's DEV Profile" height="30" width="50">
+  <p style = border-radius: 90%;>
+  <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rimol Chakma's DEV Profile" height="40" width="60">
     </p>
 </a>
 
