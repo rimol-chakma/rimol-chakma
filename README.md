@@ -4,14 +4,14 @@
 
 
 <p style = border-radius: 90%;>
-<img src="https://user-images.githubusercontent.com/67545874/105607436-e6aef480-5dc8-11eb-929d-0685e34e4cf3.png" align = "center" height = "60" width = "60">
+<img src="https://user-images.githubusercontent.com/67545874/105607436-e6aef480-5dc8-11eb-929d-0685e34e4cf3.png" align = "center" height = "60" width = "90">
 </p>
 
 
 
 <a href="https://dev.to/rimolch">
   <p style = border-radius: 90%;>
-  <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rimol Chakma's DEV Profile" height="40" width="60">
+  <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rimol Chakma's DEV Profile" height="40" width="130">
     </p>
 </a>
 
