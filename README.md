@@ -3,9 +3,9 @@
 
 
 ![software-developer-job-description-salary-and-skills-2061833-Final-c1443780296e40869075925f9b96fb5e]
-
+<p style = border-radius: 90%;>
 <img src="https://user-images.githubusercontent.com/67545874/105607436-e6aef480-5dc8-11eb-929d-0685e34e4cf3.png" align = "right" height = "60" width = "60">
-
+</p>
 
 
 
