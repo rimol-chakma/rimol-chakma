@@ -3,7 +3,7 @@
 
 
 <p>
-  <img src = "https://user-images.githubusercontent.com/67545874/107135017-6be5ed80-6921-11eb-8555-624e87c0e1b3.png" height = "400" width = "500">
+  <img src = "https://user-images.githubusercontent.com/67545874/107135017-6be5ed80-6921-11eb-8555-624e87c0e1b3.png" height = "600" width = "800">
     </p>
 
 
