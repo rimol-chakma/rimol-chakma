@@ -2,7 +2,9 @@
 
 
 
-![intro_2x 9847e2d3ffdd732260073e758609b1e1](https://user-images.githubusercontent.com/67545874/107135017-6be5ed80-6921-11eb-8555-624e87c0e1b3.png)
+<p>
+  <img src = "https://user-images.githubusercontent.com/67545874/107135017-6be5ed80-6921-11eb-8555-624e87c0e1b3.png" height = "40" width = "50">
+    </p>
 
 
 
