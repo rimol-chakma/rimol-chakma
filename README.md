@@ -1,7 +1,8 @@
 # HOLA!👋
-# if solving_end<=days 
+
  
 # *_Solve coding problem_*
+# *_if days<=deadline_*
 # *_solve👩‍💻_* 
 # *_solve👩‍💻_*
 # *_solve👩‍💻_
