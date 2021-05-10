@@ -2,7 +2,7 @@
 
  
 # *_Solve coding problem_*
-# *_if days<=deadline_*
+# *_while(days!=deadline_)*
 # *_solve👩‍💻_* 
 # *_solve👩‍💻_*
 # *_solve👩‍💻_*
