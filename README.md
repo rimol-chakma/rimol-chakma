@@ -5,10 +5,11 @@
 # *_while(days!=deadline_)*
 # *_if(days==deadline_)*
 # *_stop_coding_*
-# *_solve👩‍💻_* 
+ # *_else{_*
+ # *_solve👩‍💻_* 
 # *_solve👩‍💻_*
 # *_solve👩‍💻_*
-      
+  # *_}_*
 
        
 
