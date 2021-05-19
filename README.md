@@ -3,13 +3,12 @@
  
 # *_Solve coding problem_*
 # *_while(days!=deadline_)*
-# *_if(days==deadline_)*
-# *_stop_coding_*
- # *_else{_*
+
+
  # *_solve👩‍💻_* 
 # *_solve👩‍💻_*
 # *_solve👩‍💻_*
-  # *_}_*
+
 
        
 
