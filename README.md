@@ -1,7 +1,7 @@
 # HOLA!👋
 
  
-# *_Solve coding problem_*
+# *_Solve coding problems_*
 # *_while(days!=deadline_)*
 
 
