@@ -1,15 +1,4 @@
-/*# HOLA!👋
 
- 
-# *_Solve coding problems_*
-# *_while(days!=deadline_)*
-
-
- # *_solve👩‍💻_* 
-# *_solve👩‍💻_*
-# *_solve👩‍💻_*
-
-*/
 # ᴴᴼᴸᴬ!👋
 
  
