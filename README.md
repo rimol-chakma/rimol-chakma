@@ -19,8 +19,9 @@
 
 
 
-# *_Get stuck ?_*
-# *_Do it once more again and again 🕘_*
+# *_ᴳᵉᵗ ˢᵗᵘᶜᵏ ?_*
+# *_ᴰᵒ ᶦᵗ ᵒⁿᶜᵉ ᵐᵒʳᵉ ᵃᵍᵃᶦⁿ ᵃⁿᵈ ᵃᵍᵃᶦⁿ 🕘_*
+                  
 
 ![loading-bar-animated-gif-transparent-background-7](https://user-images.githubusercontent.com/67545874/109950795-2b527780-7d07-11eb-8ff0-1f18dc742042.gif)
 
