@@ -15,9 +15,6 @@
 # *_ᴰᵒ ᶦᵗ ᵒⁿᶜᵉ ᵐᵒʳᵉ ᵃᵍᵃᶦⁿ ᵃⁿᵈ ᵃᵍᵃᶦⁿ 🕘_*
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimolch&layout=compact)](https://github.com/rimolch/github-readme-stats)
-
-![rimolch's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimolch&show_icons=true&theme=radical)
 
 
 <a href=#><img src="contributions.svg"></a>
